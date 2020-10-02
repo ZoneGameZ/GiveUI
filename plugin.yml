@@ -1,0 +1,11 @@
+name: GiveUI
+version: 1.0.0
+main: ZoneGameZ\GiveUI\Main
+api: 3.12.0
+author: ZoneGameZ
+website: https://github.com/ZoneGameZ
+
+commands:
+  giveui:
+    description: GiveUI
+    default: op
