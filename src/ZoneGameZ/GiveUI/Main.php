@@ -1,31 +1,5 @@
 <?php
 
-/*
- * นี่เป็นปลั๊กอินเล็กๆน้อยที่ทำแจกนะครับ
- *
- * ไม่รู้จะปล่อยให้โหลดในช่องทางอื่นไหน
- *
- * เราจะพัฒนาปลั๊กอินไปเรื่อยๆ
- *
- * ช่วงนี้ทำเซิฟนะครับเลยไม่ค่อยว่างทำคลิปปลั๊กอิน
- * 
- * ฝากเว็บไซต์ GitHub ของผมด้วยนะครับ
- *
- * https://github.com/ZoneGameZ
- *
- * YouTube
- *
- * https://www.youtube.com/channel/UCwxZ5-81m60B6D9gKP8vpiw
- *
- * Facebook
- *
- * https://www.facebook.com/mixlovenamsai
- *
- * หากท่านสนใจสนับสนุน
- *
- * Wallet : 0821564509
- */
-
 namespace ZoneGameZ\GiveUI;
 
 use pocketmine\Server;
